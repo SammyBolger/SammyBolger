@@ -1,4 +1,4 @@
-  <h1 align="center">Hi 👋, I'm Sammy Bolger</h1>
+  <h1 align="center">Hi, I'm Sammy Bolger</h1>
   <h3 align="center">Data Science · AI Engineering · Data Engineering</h3>
   
   <p align="center"> 
