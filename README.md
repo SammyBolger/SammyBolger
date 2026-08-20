@@ -44,13 +44,13 @@
   
   <p align="center"> 
     <a href="https://github.com/SammyBolger/pr-reviewer-agent">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SammyBolger&repo=pr-reviewer-agent&theme=tokyonight&hide_border=true" />
+      <img src="https://github-stats-ebon-pi.vercel.app/api/pin/?username=SammyBolger&repo=pr-reviewer-agent&theme=tokyonight&hide_border=true" />
     </a>
     <a href="https://github.com/SammyBolger/tech-brief">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SammyBolger&repo=tech-brief&theme=tokyonight&hide_border=true" />
+      <img src="https://github-stats-ebon-pi.vercel.app/api/pin/?username=SammyBolger&repo=tech-brief&theme=tokyonight&hide_border=true" />
     </a>
     <a href="https://github.com/SammyBolger/Bat-Detection-Using-Machine-Learning">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SammyBolger&repo=Bat-Detection-Using-Machine-Learning&theme=tokyonight&hide_border=true" />
+      <img src="https://github-stats-ebon-pi.vercel.app/api/pin/?username=SammyBolger&repo=Bat-Detection-Using-Machine-Learning&theme=tokyonight&hide_border=true" />
     </a>
   </p>
   
@@ -59,8 +59,8 @@
   ## GitHub Stats 
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SammyBolger&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammyBolger&layout=compact&hide_border=true&theme=tokyonight" height="180" />
+    <img src="https://github-stats-ebon-pi.vercel.app/api?username=SammyBolger&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" height="180" />
+    <img src="https://github-stats-ebon-pi.vercel.app/api/top-langs/?username=SammyBolger&layout=compact&hide_border=true&theme=tokyonight" height="180" />
   </p>
   
   <p align="center">
