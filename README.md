@@ -1,25 +1,19 @@
-<h1 align="center">Hi I'm Sammy Bolger</h1>
+<h1 align="center">Hi 👋, I'm Sammy Bolger</h1>
   <h3 align="center">Data Science · AI Engineering · Data Engineering</h3>
   
-  <p align="center">
+  <p align="center"> 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&width=500&lines=Building+agentic+AI+systems;Shipping+data+pipelines;Currently+at+Entegris" 
   alt="Typing SVG" />
   </p>
   
-  ---
-  
-  ## About Me
-  
-  - 🔭 Currently interning at **Entegris** — built an internal RAG assistant for the enterprise architecture team
-  - 🌱 Shipping agentic AI and data-engineering side projects, most updated most days
-  - 💬 Ask me about **LangGraph, RAG, dbt, DuckDB, or Claude tool use**
-  - 📫 Reach me: **sammy.bolger@outlook.com**
-  - 🌐 Portfolio: **[sammybolger.com](https://sammybolger.com)**
+  <p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=SammyBolger&label=Profile%20views&color=2563EB&style=flat-square" alt="Profile views" />
+  </p>
   
   ---
-  
-  ## Tech Stack
-  
+
+  ## 🛠 Tech Stack
+
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -46,20 +40,36 @@
   
   ---
   
-  ## GitHub Stats
-  
-  <p align="center">
-    <img src="https://YOUR-VERCEL-URL/api?username=SammyBolger&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" height="180" />
-    <img src="https://YOUR-VERCEL-URL/api/top-langs/?username=SammyBolger&layout=compact&hide_border=true&theme=tokyonight" height="180" />
-  </p>
+  ## 📌 Featured Projects
   
   <p align="center"> 
+    <a href="https://github.com/SammyBolger/pr-reviewer-agent">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SammyBolger&repo=pr-reviewer-agent&theme=tokyonight&hide_border=true" />
+    </a>
+    <a href="https://github.com/SammyBolger/tech-brief">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SammyBolger&repo=tech-brief&theme=tokyonight&hide_border=true" />
+    </a>
+    <a href="https://github.com/SammyBolger/Bat-Detection-Using-Machine-Learning">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SammyBolger&repo=Bat-Detection-Using-Machine-Learning&theme=tokyonight&hide_border=true" />
+    </a>
+  </p>
+  
+  ---
+  
+  ## 📊 GitHub Stats 
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=SammyBolger&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammyBolger&layout=compact&hide_border=true&theme=tokyonight" height="180" />
+  </p>
+  
+  <p align="center">
     <img src="https://streak-stats.demolab.com?user=SammyBolger&theme=tokyonight&hide_border=true" height="180" />
   </p>
   
   ---
   
-  ## Connect
+  ## 🌐 Connect
   
   <p align="center">
     <a href="https://sammybolger.com"><img src="https://img.shields.io/badge/-Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
