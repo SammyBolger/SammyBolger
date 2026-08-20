@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sammy Bolger</h1>
+<h1 align="center">Hi I'm Sammy Bolger</h1>
   <h3 align="center">Data Science · AI Engineering · Data Engineering</h3>
   
   <p align="center"> 
@@ -12,7 +12,7 @@
   
   ---
 
-  ## 🛠 Tech Stack
+  ## Tech Stack
 
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -40,7 +40,7 @@
   
   ---
   
-  ## 📌 Featured Projects
+  ## Featured Projects
   
   <p align="center"> 
     <a href="https://github.com/SammyBolger/pr-reviewer-agent">
@@ -56,7 +56,7 @@
   
   ---
   
-  ## 📊 GitHub Stats 
+  ## GitHub Stats 
   
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=SammyBolger&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" height="180" />
@@ -69,7 +69,7 @@
   
   ---
   
-  ## 🌐 Connect
+  ## Connect
   
   <p align="center">
     <a href="https://sammybolger.com"><img src="https://img.shields.io/badge/-Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
